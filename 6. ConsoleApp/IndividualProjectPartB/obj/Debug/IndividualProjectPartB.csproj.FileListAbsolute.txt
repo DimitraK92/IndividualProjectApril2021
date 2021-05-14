@@ -1,0 +1,21 @@
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectApril2021\IndividualProjectPartB\IndividualProjectPartB\obj\Debug\IndividualProjectPartB.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectApril2021\IndividualProjectPartB\IndividualProjectPartB\obj\Debug\IndividualProjectPartB.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectApril2021\IndividualProjectPartB\IndividualProjectPartB\bin\Debug\IndividualProjectPartB.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectApril2021\IndividualProjectPartB\IndividualProjectPartB\bin\Debug\IndividualProjectPartB.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectApril2021\IndividualProjectPartB\IndividualProjectPartB\bin\Debug\IndividualProjectPartB.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectApril2021\IndividualProjectPartB\IndividualProjectPartB\obj\Debug\IndividualProjectPartB.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectApril2021\IndividualProjectPartB\IndividualProjectPartB\obj\Debug\IndividualProjectPartB.pdb
+C:\Projects\Dimitra\IndividualProjectPartB-ADO.NET\IndividualProjectPartB\bin\Debug\IndividualProjectPartB.exe.config
+C:\Projects\Dimitra\IndividualProjectPartB-ADO.NET\IndividualProjectPartB\bin\Debug\IndividualProjectPartB.exe
+C:\Projects\Dimitra\IndividualProjectPartB-ADO.NET\IndividualProjectPartB\bin\Debug\IndividualProjectPartB.pdb
+C:\Projects\Dimitra\IndividualProjectPartB-ADO.NET\IndividualProjectPartB\obj\Debug\IndividualProjectPartB.csprojAssemblyReference.cache
+C:\Projects\Dimitra\IndividualProjectPartB-ADO.NET\IndividualProjectPartB\obj\Debug\IndividualProjectPartB.csproj.CoreCompileInputs.cache
+C:\Projects\Dimitra\IndividualProjectPartB-ADO.NET\IndividualProjectPartB\obj\Debug\IndividualProjectPartB.exe
+C:\Projects\Dimitra\IndividualProjectPartB-ADO.NET\IndividualProjectPartB\obj\Debug\IndividualProjectPartB.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectPartB-ADO.NET3\IndividualProjectPartB\bin\Debug\IndividualProjectPartB.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectPartB-ADO.NET3\IndividualProjectPartB\bin\Debug\IndividualProjectPartB.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectPartB-ADO.NET3\IndividualProjectPartB\bin\Debug\IndividualProjectPartB.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectPartB-ADO.NET3\IndividualProjectPartB\obj\Debug\IndividualProjectPartB.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectPartB-ADO.NET3\IndividualProjectPartB\obj\Debug\IndividualProjectPartB.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectPartB-ADO.NET3\IndividualProjectPartB\obj\Debug\IndividualProjectPartB.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Projects\IndividualProjectPartB-ADO.NET3\IndividualProjectPartB\obj\Debug\IndividualProjectPartB.pdb
